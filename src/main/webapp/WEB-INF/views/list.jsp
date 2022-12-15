@@ -38,6 +38,7 @@
 
   <body>
     <h1>맛집 소개 페이지</h1>
+    <br/><a href="login/logout">로그아웃하기</a>
     <table id="list" width="90%">
       <tr>
         <th>아이디</th>
